@@ -48,3 +48,4 @@ The big goals of the project are
 
 1. Project Started: Fri Dec 22 11:27:18 2017
 	* Wrote Markdown File Outline 
+	* Started Project Files, Git, Ball rolling
