@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<!-- INFO key="OTL" value="Yidui gezi xukongli fei" -->
+<!-- INFO key="ARE" value="Asia, China,ÿQinghai Xunhua Hualong" -->
+<!-- GCOMMENT value=" I, 236" -->
+<!-- INFO key="SCT" value="C2080" -->
+<!-- INFO key="YEM" value="Copyright 1995, estate of Helmut Schaffrath." -->
+<score-partwise version="2.0">
+	<part-list>
+		<score-part id="P1">
+			<part-name>vox</part-name>
+		</score-part>
+	</part-list>
+
+	<part id="P1">
+		<measure number="1">
+			<attributes>
+				<divisions>0</divisions>
+			</attributes>
+		</measure>
+	</part>
+</score-partwise>

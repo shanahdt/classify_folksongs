@@ -1,0 +1,66 @@
+CHEKSUMS for files from /osu/densmore/ojibway
+at http://kern.humdrum.org
+downloaded on Wed Jan 10 10:17:00 PST 2018
+A current version of these files may be downloaded using the address:
+   http://kern.humdrum.org/data?f=zip&l=/osu/densmore/ojibway
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+310683071 1133 ojibwa01.krn
+4082621915 1255 ojibwa02.krn
+2483338174 1407 ojibwa03.krn
+2117610103 1122 ojibwa04.krn
+2608173137 1081 ojibwa05.krn
+3277769202 1403 ojibwa06.krn
+3849806643 898 ojibwa07.krn
+1077384760 1393 ojibwa08.krn
+2972195718 1142 ojibwa09.krn
+2987805044 1163 ojibwa10.krn
+1145843826 898 ojibwa11.krn
+77913030 1072 ojibwa12.krn
+2948479691 1448 ojibwa13.krn
+3101855818 988 ojibwa14.krn
+1159263221 822 ojibwa15.krn
+1610841521 919 ojibwa16.krn
+3989756468 1047 ojibwa17.krn
+1120741727 916 ojibwa18.krn
+2733853622 1107 ojibwa19.krn
+2718009068 840 ojibwa20.krn
+2745133164 1143 ojibwa21.krn
+1485073578 1015 ojibwa22.krn
+3503552391 1096 ojibwa23.krn
+4227142445 998 ojibwa24.krn
+2620374799 1021 ojibwa25.krn
+702405379 1054 ojibwa26.krn
+4016066381 983 ojibwa27.krn
+1549578707 1165 ojibwa28.krn
+355005943 1014 ojibwa29.krn
+2110529035 1149 ojibwa30.krn
+1280263271 1045 ojibwa31.krn
+3115776556 957 ojibwa32.krn
+2586989452 1143 ojibwa33.krn
+4205356184 1165 ojibwa34.krn
+67802383 994 ojibwa35.krn
+23771925 1123 ojibwa36.krn
+3771912138 1029 ojibwa37.krn
+3271025051 1046 ojibwa38.krn
+2014420960 1112 ojibwa39.krn
+3725103227 1263 ojibwa40.krn
+1209643704 941 ojibwa41.krn
+223440527 916 ojibwa42.krn

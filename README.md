@@ -13,11 +13,9 @@ The big goals of the project are
 
 ### Current
 
-* [ ] Redownload Essen Collection with All Countries
-* [ ] Rerun Feature Extraction Script
+* [X] Redownload Essen Collection with All Countries
+* [X] Rerun Feature Extraction Script
 * [ ] Get American Folk Songs from Kodaly
- 
-
 
 ### Literature Review
 
@@ -31,9 +29,10 @@ The big goals of the project are
 
 #### Data
 
-* [ ] Get Essen Collection Features 6210
+* [X]  Get Essen Collection Features 6210
 * [ ] Get American Features http://kodaly.hnu.edu/collection.cfm 522
-* [ ] Chinese Features?
+* [X] Chinese Features?
+* [ ] Write R Script to Add in More Humdrum Metadata (Like German Region) 
 
 #### Analysis 
 * [ ] Create Cleaning Script of Extracted Features
@@ -49,3 +48,7 @@ The big goals of the project are
 1. Project Started: Fri Dec 22 11:27:18 2017
 	* Wrote Markdown File Outline 
 	* Started Project Files, Git, Ball rolling
+2. Return after break
+	* Read Toiviainen and Eerola 2001 (Very basic attempt at neural net to show similarity across 6 features)
+	* 
+
