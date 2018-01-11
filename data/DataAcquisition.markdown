@@ -12,6 +12,8 @@ This produced 8473 files
 Then I moved them to essenbin with
  ```find . -name \*.krn -exec cp {} ../essen\_bin/ \;```
 Then run bash loop to convert to xml (hum2xml)
+ ```for i in *.krn; do; hum2xml > $i; done```
+ ```rename 's/\.krn\.xml$/.krn/' *.xml```
 Then use Musescore to convert in batch. Tons of problms here thinking some are not xml right
 Now nun melconv
 ```ls \*.mid | melconv -f csv -s -I```
@@ -23,5 +25,19 @@ Then run fantastic
 Densmore collection was downloaded in three parts.
 First went to http://kern.humdrum.org/cgi-bin/browse?l=/osu/densmore for Ojibway and Pawnee.
 Then got Sioux from http://kern.humdrum.org/cgi-bin/browse?l=users/craig/songs/densmore/sioux
+
+```find . -name \*.krn | wc```
+Then I moved them to essenbin with
+ ```find . -name \*.krn -exec cp {} ../densmore\_bin/ \;```
+Then run bash loop to convert to xml (hum2xml)
+ ```for i in *.krn; do; hum2xml > $i.xml; done```
+ ```rename 's/\.krn\.xml$/.krn/' *.xml```
+Then use Musescore to convert in batch. Minmal problems in comparison
+Now nun melconv
+```ls \*.mid | melconv -f csv -s -I```
+Then run fantastic after changing working directory 
+```densmoreFeatuers <- compute.features(melody.filenames = list.files(pattern=".csv"), dir = ".",use.segmentation = FALSE,write.out = TRUE)```
+
+
 
 ## American Kodlay Features

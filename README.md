@@ -51,5 +51,6 @@ The big goals of the project are
 2. Return after break Wed Fan 10  18:04:57 2017
 	* Read Toiviainen and Eerola 2001 (Very basic attempt at neural net to show similarity across 6 features)
 	* Spent almost entire day waiting for loops and fixing problems with batch convert of essen AND asia features
+	* Converted densmore collection after dinner
 
 

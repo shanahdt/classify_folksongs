@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<!-- INFO key="XEN" value="(no words)" -->
+<!-- INFO key="AGN" value="War song" -->
+<!-- INFO key="COM" value="Anonymous" -->
+<!-- INFO key="CNT" value="Native American &#45;&#45; Ojibway" -->
+<!-- INFO key="TXO" value="Ojibway" -->
+<!-- INFO key="MLC" value="White Earth reservation, northern Minnesota, U.S.A." -->
+<!-- INFO key="MRD" value="1907-1909///" -->
+<!-- INFO key="MPN" value="Ga'gandac' ("One whose sails are driven by the wind")" -->
+<score-partwise version="2.0">
+	<part-list>
+		<score-part id="P1">
+			<part-name>male</part-name>
+		</score-part>
+	</part-list>
+
+	<part id="P1">
+		<measure number="1">
+			<attributes>
+				<divisions>12</divisions>
+			</attributes>
+			<attributes>
+				<key>
+					<fifths>-6</fifths>
+				</key>
+			</attributes>
+			<attributes>
+				<clef>
+					<sign>F</sign>
+					<line>4</line>
+				</clef>
+			</attributes>
+			<attributes>
+				<time>
+					<beats>3</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>18</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number="2">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>18</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number="3">
+			<attributes>
+				<time>
+					<beats>2</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>18</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+		</measure>
+		<measure number="4">
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number="5">
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>9</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<tied type="start"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="6">
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>24</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type="stop"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="7">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+		</measure>
+		<measure number="8">
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+		</measure>
+		<measure number="9">
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>9</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>9</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+		</measure>
+		<measure number="10">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>24</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type="start"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="11">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>24</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type="stop"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="12">
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>12</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<tied type="start"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="13">
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>12</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<tied type="stop"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<measure number="14">
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<notations>
+					<tied type="start"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<notations>
+					<tied type="stop"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="15">
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>9</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations>
+					<tied type="start"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="16">
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>24</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type="stop"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="17">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+		</measure>
+		<measure number="18">
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+		</measure>
+		<measure number="19">
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1</alter>
+					<octave>3</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>9</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>9</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>3</duration>
+				<voice>1</voice>
+				<type>16th</type>
+			</note>
+		</measure>
+		<measure number="20">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>24</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type="start"/>
+				</notations>
+			</note>
+		</measure>
+		<measure number="21">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>24</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>half</type>
+				<notations>
+					<tied type="stop"/>
+				</notations>
+			</note>
+		</measure>
+	</part>
+</score-partwise>
+<!-- INFO key="OCL" value="Frances Densmore" -->
+<!-- INFO key="YOR" value="Chippewa [i.e., Ojibway] Music, Bulletin 45 of the Bureau of American Ethnology, Smitsonian Institution" -->
+<!-- INFO key="ONM" value="125" -->
+<!-- INFO key="PPG" value="139-140" -->
+<!-- INFO key="PUB" value="published" -->
+<!-- INFO key="PPR" value="Government Printing Office" -->
+<!-- INFO key="PPP" value="Washington, D.C." -->
+<!-- INFO key="PDT" value="1909///" -->
+<!-- INFO key="EST" value="missing clef changes, text, drum tempo, and drum part" -->
+<!-- INFO key="YEC" value="Copyright 1998 Paul von Hippel" -->
+<!-- INFO key="YEM" value="Rights to all derivate electronic formats reserved." -->
+<!-- INFO key="EFL" value="12/42" -->
+<!-- INFO key="VTS" value="1169989721" -->
