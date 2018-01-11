@@ -48,9 +48,10 @@ The big goals of the project are
 1. Project Started: Fri Dec 22 11:27:18 2017
 	* Wrote Markdown File Outline 
 	* Started Project Files, Git, Ball rolling
-2. Return after break Wed Fan 10  18:04:57 2017
+2. Return after break Wed Jan 10 18:04:57 2017
 	* Read Toiviainen and Eerola 2001 (Very basic attempt at neural net to show similarity across 6 features)
 	* Spent almost entire day waiting for loops and fixing problems with batch convert of essen AND asia features
 	* Converted densmore collection after dinner
-
-
+3. Added in ESAC region information Thu Jan 11 13:04:30 
+	* Added R code to add in region information for essen
+	* Also created columns for subsetting of Densmore Collections
