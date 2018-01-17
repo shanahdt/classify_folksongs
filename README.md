@@ -32,10 +32,11 @@ The big goals of the project are
 * [X]  Get Essen Collection Features 6210
 * [ ] Get American Features http://kodaly.hnu.edu/collection.cfm 522
 * [X] Chinese Features?
-* [ ] Write R Script to Add in More Humdrum Metadata (Like German Region) 
+* [X] Write R Script to Add in More Humdrum Metadata (Like German Region) 
 
 #### Analysis 
-* [ ] Create Cleaning Script of Extracted Features
+
+* [X] Create Cleaning Script of Extracted Features
 * [ ] Write rationale why ML method of choice will be used in accordance with Hypotheses
 * [ ] Create charts based on classification findings 
 
@@ -55,3 +56,4 @@ The big goals of the project are
 3. Added in ESAC region information Thu Jan 11 13:04:30 
 	* Added R code to add in region information for essen
 	* Also created columns for subsetting of Densmore Collections
+4. Emailed Kodaly Center again, set up outline for paper 
