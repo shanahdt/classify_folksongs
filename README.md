@@ -57,3 +57,7 @@ The big goals of the project are
 	* Added R code to add in region information for essen
 	* Also created columns for subsetting of Densmore Collections
 4. Emailed Kodaly Center again, set up outline for paper 
+5. Started Exploratory Script Friday Jan 19 11:45:30
+	* Get full Essen from DS
+	* Talk ML techniques w DS meeting, NN, KNN, Decision Tree
+	* Recursive 
