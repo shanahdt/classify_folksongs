@@ -61,7 +61,7 @@ densmoreFeatures[, Country := gsub(pattern = "[[:digit:]]",
                                 x = densmoreFeatures$folksong)]
 # Is it right to use the tribe names as synonym for country ?!
 #======================================================================================================
-
-densmoreFeatures
-essenFeatures
+# Write Files
+fwrite(densmoreFeatures,"data/feature_data/densmoreFeatures.csv")
+fwrite(essenFeatures, "data/feature_data/essenFeatures.csv")
 #======================================================================================================

@@ -38,6 +38,4 @@ Now nun melconv
 Then run fantastic after changing working directory 
 ```densmoreFeatuers <- compute.features(melody.filenames = list.files(pattern=".csv"), dir = ".",use.segmentation = FALSE,write.out = TRUE)```
 
-
-
 ## American Kodlay Features
